@@ -1,0 +1,81 @@
+NOTES
+
+Sublime Shortcuts
+	new file = ctrl + n
+	nav = ctrl + k b
+	switch tab = ctrl + tab
+	split tab = alt + shift + 1/2/3/4
+	duplicate line = ctrl + shift + d
+	indention = ctrl + ], ctrl + [
+	to open new file = ctrl + p
+
+Terminal
+	Change directory - cd
+	Go back directory - cd ..
+	List all directories - ls / ls -l
+	New directory -  mkdir
+	New file - touch 
+	Move - mv
+	Remove -  rm -vr
+	Clear lines - clear
+	Absolute path location - pwd
+
+Git
+	Setup
+		1: cd <foldername> (Go to directory)
+		2: git init (Initializes a connection between your local and repository)
+		3: git add -A (Add all files and directories from local storage)
+		4: git status (To check which files are added)
+		5: git commit -m "<message>" (Commits all changes done/added/removed)
+			Note: <message> should be descriptive and present tense
+		6: git remote add <alias> <link>
+			Ex: git remote add origin https://
+		7: git push <alias> master
+			Ex: git push origin master
+
+	Push
+		1: git add -A
+		2: git commit "<message>"
+		3: git push <alias> master
+
+	Pull
+		1: make the directory
+		2: git init
+		3: git remote add <alias> <link>
+		4: git pull <alias> master
+
+	Future Pull 
+		1: Go to same project folder
+		2: git pull <alias> master
+
+	SOP
+		Working in Class
+		1: (Start of Day/Night) Pull from gitlab/github
+		2: Work
+		3: (Start of Day/Night) Push to gitlab/github
+
+
+3 Steps
+	Read Documentation
+	Use Google
+	Ask Devs
+
+Internet Origin
+	60's/70's
+
+	1957: Time sharing (Relay)
+	1960's: Packet Switching (Trasmitting pieces of data on multiple points)
+			ARPANET (Advance Research Packets Agency Net) - First Internet
+			UCLA, Standord, UT, UC Sta. Barbara
+	1970's: Implemented in East US and England
+
+	Fathers of Internet
+		Vin Cerf and Bob Khan
+
+	Application -> Internet -> Network Interface
+
+How the Web works
+	Front-End -> Client
+	Back-End -> Server
+
+HTML (Hyper Text Markup language)

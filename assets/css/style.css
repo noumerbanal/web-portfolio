@@ -43,9 +43,12 @@ h2{
 }
 
 .container{
-	width: 400px;
 	margin: 0 auto;
 	text-align: center;
+}
+
+.content{
+	margin: auto;
 }
 
 .about{
